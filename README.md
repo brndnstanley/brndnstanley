@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @brndnstanley
-- 👀 I’m interested in banjo making and computers
+- I’m interested in banjo making and computers
 - 🌱 I’m currently learning cs50
 
 <!---
